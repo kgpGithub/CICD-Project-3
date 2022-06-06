@@ -1,7 +1,7 @@
 # Project3
 Give your application Auto-Deploy Superpowers
 
-This project contains:
+This project contains: 
 
 presentation.pdf
 
